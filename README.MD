@@ -1,7 +1,6 @@
 # Insurance Claim Prediction App
 
-A complete **Machine Learning project** to predict **health insurance claim amounts** based on customer demographic and health data.  
-The project includes **data preprocessing, exploratory data analysis (EDA), model training**, and an interactive **Streamlit web application** for live predictions.
+A complete **Machine Learning project** to predict **health insurance claim amounts** based on customer demographic and health data. The project includes **data preprocessing, exploratory data analysis (EDA), model training**, and an interactive **Streamlit web application** for live predictions.
 
 ---
 
